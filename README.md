@@ -2,9 +2,9 @@
 
 <div align="center">
 
-## Full-Stack Developer | AgTech Specialist | Ingeniero de Sistemas
+## Ingeniero de Sistemas | Desarrollador de Software | Constructor de Soluciones Tecnológicas
 
-**🌱 Transformando la agricultura con tecnología | 🔐 Experto en ciberseguridad | 📊 Data Science enthusiast**
+**🌱 Desarrollo web + Hardware + Automatizaciones | 🤖 Algoritmos ML/IA | 🔧 Construcción de soluciones integrales**
 
 **📧 Email:** brrojas.h14@gmail.com | **🌐 Portfolio:** [brrojash.github.io/mi-portafolio](https://brrojash.github.io/mi-portafolio/)
 
@@ -14,13 +14,39 @@
 
 ## 🚀 Sobre Mí
 
-Soy **Ingeniero de Sistemas y Computación** especializado en desarrollo full-stack con un enfoque único en **AgTech** (tecnología agrícola). Mi pasión es crear soluciones tecnológicas que generen impacto real en sectores tradicionales como la agricultura, combinando tecnologías modernas con necesidades comerciales concretas.
+Soy **Ingeniero de Sistemas y Computación** con enfoque en **desarrollo de software**, **construcciones hardware** y **automatizaciones inteligentes**. Me especializo en crear soluciones tecnológicas completas que combinan desarrollo web, hardware IoT, y algoritmos de machine learning para resolver problemas reales, especialmente en el sector AgTech.
 
 <div align="center">
 
-### 🎯 **Mi enfoque:** *"Tecnología con propósito e impacto comercial"*
+### 🎯 **Mi enfoque:** *"Desarrollo integral: desde el hardware hasta la interfaz web"*
 
 </div>
+
+---
+
+## 🎯 Mis Áreas de Desarrollo
+
+<div align="center">
+
+| 🌐 **Desarrollo Web** | 🔧 **Hardware & IoT** | 🤖 **ML/IA & Automatización** |
+|----------------------|------------------------|------------------------------|
+| ✅ Aplicaciones web full-stack | ✅ Estaciones meteorológicas IoT | ✅ Algoritmos de machine learning |
+| ✅ Plataformas e-commerce | ✅ Sensores y microcontroladores | ✅ Automatizaciones inteligentes |
+| ✅ APIs REST y bases de datos | ✅ Integración hardware-software | ✅ Algoritmos genéticos |
+| ✅ Frontend moderno (React, Next.js) | ✅ Recolección de datos en tiempo real | ✅ Análisis predictivo |
+| ✅ CMS y gestión de contenido | ✅ Sistemas de monitoreo | ✅ Pipelines de datos automatizados |
+
+</div>
+
+### 🚀 **Lo que me diferencia:**
+
+- 🧠 **IA/ML con impacto real**: Sistema de predicción meteorológica con 87.3% precisión
+- 🎯 **Proyectos end-to-end**: Desde modelos LSTM hasta plataformas comerciales
+- 💰 **Orientación comercial**: Desarrollo soluciones con valor económico demostrable
+- 🌡️ **Hardware + Software + IA**: Combino sensores IoT, desarrollo web y machine learning
+- 🔧 **Stack moderno completo**: TensorFlow, Next.js 15, React 19, TypeScript, PostgreSQL
+- 📚 **Formación sólida**: Proyectos de grado completados con validación académica
+- 📊 **Data Science aplicado**: Análisis temporal, predicción y visualización avanzada
 
 ---
 
@@ -92,51 +118,64 @@ Plataforma web **full-stack en producción** para comercialización de estacione
 
 ## 🛠️ Stack Tecnológico
 
-### 🎨 Frontend Development
-**Next.js 15** • **React 19** • **TypeScript** • **Tailwind CSS v4** • **JavaScript** • **CSS3** • **HTML5** • **Framer Motion**
-
-### ⚙️ Backend Development
-**Node.js** • **Strapi CMS** • **Python** • **REST APIs** • **PostgreSQL**
-
-### 🗄️ Bases de Datos & Cloud
-**PostgreSQL** • **MongoDB** • **Azure Cosmos DB** • **Microsoft Azure**
-
-### 📊 Data Science & Analytics
-**Pandas** • **NumPy** • **Jupyter Notebooks** • **Matplotlib** • **Data Pipelines**
-
----
-
-## 📊 Mi Actividad en GitHub
-
-**Lenguajes más utilizados:** Python, JavaScript, TypeScript, CSS, HTML  
-**Repositorios destacados:** 6 proyectos públicos con impacto comercial y técnico  
-**Contribuciones:** Desarrollo activo en proyectos AgTech, Ciberseguridad y Data Science
-
----
-
-## 🎯 Mis Áreas de Desarrollo
-
+### 🤖 Machine Learning & IA
 <div align="center">
 
-| 🌐 **Desarrollo Web** | 🔧 **Hardware & IoT** | 🤖 **ML/IA & Automatización** |
-|----------------------|------------------------|------------------------------|
-| ✅ Aplicaciones web full-stack | ✅ Estaciones meteorológicas IoT | ✅ Algoritmos de machine learning |
-| ✅ Plataformas e-commerce | ✅ Sensores y microcontroladores | ✅ Automatizaciones inteligentes |
-| ✅ APIs REST y bases de datos | ✅ Integración hardware-software | ✅ Algoritmos genéticos |
-| ✅ Frontend moderno (React, Next.js) | ✅ Recolección de datos en tiempo real | ✅ Análisis predictivo |
-| ✅ CMS y gestión de contenido | ✅ Sistemas de monitoreo | ✅ Pipelines de datos automatizados |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
-### 🚀 **Lo que me diferencia:**
+### 🎨 Frontend Development
+<div align="center">
 
-- 🧠 **IA/ML con impacto real**: Sistema de predicción meteorológica con 87.3% precisión
-- 🎯 **Proyectos end-to-end**: Desde modelos LSTM hasta plataformas comerciales
-- 💰 **Orientación comercial**: Desarrollo soluciones con valor económico demostrable
-- 🌡️ **Hardware + Software + IA**: Combino sensores IoT, desarrollo web y machine learning
-- 🔧 **Stack moderno completo**: TensorFlow, Next.js 15, React 19, TypeScript, PostgreSQL
-- 📚 **Formación sólida**: Proyectos de grado completados con validación académica
-- 📊 **Data Science aplicado**: Análisis temporal, predicción y visualización avanzada
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+
+</div>
+
+### 🗄️ Bases de Datos & Cloud
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+### 📊 Data Science & Analytics
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+### 🔧 Herramientas & Otros
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
@@ -160,16 +199,25 @@ Enfocado en mis cuatro áreas principales de desarrollo:
 
 ---
 
-## 🤝 Hablemos
+## 📊 GitHub Stats
 
 <div align="center">
 
-**¿Tienes un proyecto desafiante en AgTech, desarrollo full-stack o ciberseguridad?**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brrojash&show_icons=true&theme=dark&count_private=true)
 
-[![Agenda una reunión](https://img.shields.io/badge/📅_Agenda_Reunión-00D9FF?style=for-the-badge&logo=calendar&logoColor=black)](mailto:brrojas.h14@gmail.com)
-[![Descarga mi CV](https://img.shields.io/badge/📄_Descargar_CV-28a745?style=for-the-badge&logo=document&logoColor=white)](https://brrojash.github.io/mi-portafolio/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brrojash&layout=compact&theme=dark)
 
-### 💬 *"Construyendo el futuro de la agricultura con código"* 
+</div>
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-brrojash.github.io-blue?style=for-the-badge&logo=github-pages)](https://brrojash.github.io/mi-portafolio/)
+[![Email](https://img.shields.io/badge/Email-brrojas.h14@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:brrojas.h14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-brrojash-black?style=for-the-badge&logo=github)](https://github.com/brrojash)
 
 </div>
 
@@ -177,9 +225,8 @@ Enfocado en mis cuatro áreas principales de desarrollo:
 
 <div align="center">
 
-### ⭐ **¿Te gusta mi trabajo?**
-**¡Dame una estrella en mis repositorios y conectemos en LinkedIn!**
+*"Desarrollando el futuro con tecnología, una línea de código a la vez"* 🚀
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=brrojash.brrojash&left_color=00d9ff&right_color=28a745)
+![Profile Views](https://komarev.com/ghpvc/?username=brrojash&color=brightgreen&style=flat-square)
 
 </div>
