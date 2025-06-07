@@ -59,7 +59,7 @@ Sistema avanzado de **predicción meteorológica con inteligencia artificial** d
 
 **🎯 Logros Técnicos:**
 - 🧠 **Modelos LSTM** con TensorFlow/Keras para predicción temporal
-- 📊 **87.3% de precisión** en predicciones meteorológicas
+- 📊 **68.3% de aciertos** en predicciones meteorológicas
 - 🔮 **Predicciones a 72 horas** con análisis por períodos
 - 🔄 **Sistema de retroalimentación** que mejora el modelo automáticamente
 - 📈 **6 años de datos** procesados (2018-2024)
