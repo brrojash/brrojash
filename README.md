@@ -197,19 +197,7 @@ Enfocado en mis cuatro áreas principales de desarrollo:
 
 **💡 Filosofía de aprendizaje:** *"Construir proyectos reales que combinen hardware, software e inteligencia artificial"*
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brrojash&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brrojash&layout=compact&theme=dark)
-
-</div>
-
----
 
 ## 🤝 Conectemos
 
